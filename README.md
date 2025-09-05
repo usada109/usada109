@@ -17,6 +17,7 @@
 - 回路設計・組込みハードウェア
 - ディスプレイ制御（RGB, LVDS, MIPI-DSI, SSD1963）
 - PLCラダー解析（Mitsubishi, Omron 等）
+- CAN modbus モーター制御
 - アセンブラ 8080,Z80,6502,6809,68000,AVR,PIC,mips,arm
 - ソースコードが残っていないROMからの抽出 C言語化⇒代替装置作成
 
