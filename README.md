@@ -18,7 +18,7 @@
 - ディスプレイ制御（RGB, LVDS, MIPI-DSI, SSD1963）
 - PLCラダー解析（Mitsubishi, Omron 等）
 - アセンブラ 8080,Z80,6502,6809,68000,AVR,PIC,mips,arm
-- ソースコードが残っていないROMからの抽出C言語化⇒代替装置作成
+- ソースコードが残っていないROMからの抽出 C言語化⇒代替装置作成
 
 ---
 
@@ -26,6 +26,7 @@
 - ✉️ Email: usada109@me.com
 - 💬 Discord: ha_ru8613
 - 🔗 [GitHub Profile](https://github.com/usada109)
+- 居住区：埼玉
 
 ---
 
